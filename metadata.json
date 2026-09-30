@@ -1,0 +1,6 @@
+{
+  "name": "SPPKPP - Sistem Pengurusan Permohonan Kemaskini Portal Pahang",
+  "description": "Sistem Pengurusan Permohonan Kemaskini Portal Pahang (SPPKPP) - Seksyen Portal, Bahagian Teknologi Maklumat (BTM), Pejabat Setiausaha Kerajaan Negeri Pahang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
